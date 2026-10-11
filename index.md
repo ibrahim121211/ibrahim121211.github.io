@@ -1,6 +1,10 @@
-&#x20;  # Ibrahim
+\# Ibrahim
 
-&#x20;  Game programmer | Unity | C#
 
-&#x20;  Portfolio coming soon.
+
+Game programmer, Unity and C#.
+
+
+
+Portfolio coming soon.
 
