@@ -64,3 +64,31 @@ a:hover {
   font-size: 0.9rem;
   color: #aab0bd;
 }
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid #2a2f3d;
+}
+
+.card img {
+  border: none;
+  border-radius: 0;
+}
+
+figure {
+  margin: 20px 0;
+}
+
+figcaption {
+  font-size: 0.85rem;
+  color: #8b92a1;
+  margin-top: 6px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+  margin: 20px 0;
+}
